@@ -1,1 +1,1 @@
-Changes are you wanted to go to this [repo](https://github.com/tkrabel/edaviz). You are welcome ;)
+Please go to https://github.com/tkrabel/edaviz
