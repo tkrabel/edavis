@@ -1,1 +1,1 @@
-Changes are you wanted to go to this [repo](https://github.com/tkrabel/edaviz) :)
+Actually, [edaviz](https://www.edaviz.com) is written with a Z and not an S at the end. Therefore, please visit https://github.com/tkrabel/edaviz. :)
